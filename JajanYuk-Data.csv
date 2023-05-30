@@ -1,5 +1,5 @@
 Data Penjualan Jajan yuk januari,,,
-cust id,menu yang paling sering dipesan,total belanja dalam rupiah,jumlah menu yang dipesan
+CustId, FavMenu, TotalSpend,TotalMenu
 1,Paket Hemat Yuk 1,"80,000",8
 2,Paket Bento yuk 2,"280,000",20
 3,Paket Sultan Jajan 7,"366,000",23
